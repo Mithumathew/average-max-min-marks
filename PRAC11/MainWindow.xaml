@@ -1,0 +1,24 @@
+﻿<Window x:Class="PRAC11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRAC11"
+        mc:Ignorable="d"
+        Title="Exam Scores" Height="525" Width="525">
+    <Grid>
+        <ListBox Name="listBox" HorizontalAlignment="Left" ItemsSource="{Binding Scorelist1}" Height="100" Margin="54,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <ListBox Name="listBox1" HorizontalAlignment="Left" Height="100" ItemsSource="{Binding Scorelist2}" Margin="54,147,0,0" VerticalAlignment="Top" Width="100"/>
+        <ListBox Name="listBox2" HorizontalAlignment="Left" Height="100" ItemsSource="{Binding Scorelist3}" Margin="54,286,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBlock Name="textBlock" HorizontalAlignment="Left" Margin="263,50,0,0" TextWrapping="Wrap" Text="{Binding TotalAverage}" VerticalAlignment="Top"/>
+        <TextBlock Name="textBlock1" HorizontalAlignment="Left" Margin="263,128,0,0" TextWrapping="Wrap" Text="{Binding AvgSecscore}" VerticalAlignment="Top"/>
+        <TextBlock Name="textBlock2" HorizontalAlignment="Left" Margin="263,197,0,0" TextWrapping="Wrap" Text="{Binding Maxscore}" VerticalAlignment="Top"/>
+        <TextBlock Name="textBlock3" HorizontalAlignment="Left" Margin="263,286,0,0" TextWrapping="Wrap" Text="{Binding Minscore}" VerticalAlignment="Top"/>
+        <Label Name="label" Content="Total Average" FontSize="15" HorizontalAlignment="Left" Margin="263,10,0,0" VerticalAlignment="Top"/>
+        <Label Name="label1" Content="Average in each section"  FontSize="15" HorizontalAlignment="Left" Margin="263,89,0,0" VerticalAlignment="Top"/>
+        <Label Name="label2" Content="Max score and section"  FontSize="15" HorizontalAlignment="Left" Margin="263,161,0,0" VerticalAlignment="Top"/>
+        <Label Name="label3" Content="Min Score and section"  FontSize="15" HorizontalAlignment="Left" Margin="263,251,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\bin\Debug\PRAC11.exe.config
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\bin\Debug\PRAC11.exe
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\bin\Debug\PRAC11.pdb
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11.csprojResolveAssemblyReference.cache
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\MainWindow.g.cs
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\App.g.cs
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11_MarkupCompile.cache
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11_MarkupCompile.lref
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\MainWindow.baml
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11.g.resources
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11.Properties.Resources.resources
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11.csproj.GenerateResource.Cache
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11.exe
+c:\users\mithu\documents\visual studio 2015\Projects\PRAC11\PRAC11\obj\Debug\PRAC11.pdb
